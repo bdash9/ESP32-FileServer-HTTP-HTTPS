@@ -1,3 +1,12 @@
+This code kicks up a web/DNS server and acts as an access point. OIne can connect via http or https (currently setup for a self signed cert).
+One can show the esp32 configuration, upload files, delete files, upload firmware and reboot the ESP32.
+
+I made small changes to the origional code to work on my Adafruit ESP32-S2 Feather TFT.
+
+Origional project can be found here:
+
+https://github.com/stooged/PS5-Server32
+
 # PS5-Server32
  
 This is a project designed for the <a href=https://www.espressif.com/en/products/socs/esp32-s2>ESP32-S2</a>, <a href=https://www.espressif.com/en/products/socs/esp32-s3>ESP32-S3</a> and <a href=https://www.espressif.com/en/products/socs/esp32>ESP32</a> boards to provide a wifi http(s) server, dns server.
