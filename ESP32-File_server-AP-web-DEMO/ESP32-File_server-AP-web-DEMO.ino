@@ -75,8 +75,8 @@ IPAddress Subnet_Mask(255, 255, 255, 0);
 
 // connect to wifi
 boolean connectWifi = false;
-String WIFI_SSID = "INDIGO";
-String WIFI_PASS = "redsun1234";
+String WIFI_SSID = "XXXXXX";
+String WIFI_PASS = "XXXXXXXXXXX";
 String WIFI_HOSTNAME = "ps5.local";
 
 // Displayed firmware version
