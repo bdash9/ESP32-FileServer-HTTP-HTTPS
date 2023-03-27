@@ -1,4 +1,4 @@
-This code kicks up a web/DNS server and acts as an access point. OIne can connect via http or https (currently setup for a self signed cert).
+This code kicks up a web/DNS server and acts as an access point. One can connect via http or https to 10.1.1.1 (currently setup for a self signed cert).
 One can show the esp32 configuration, upload files, delete files, upload firmware and reboot the ESP32.
 
 I made small changes to the origional code to work on my Adafruit ESP32-S2 Feather TFT.
